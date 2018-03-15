@@ -2,5 +2,7 @@
 name = "work_timer"
 version = "0.1.0"
 authors = ["Hilmar Gústafsson <hilmargustafs@gmail.com>"]
+license = "MIT"
 
 [dependencies]
+structopt = "0.2"
